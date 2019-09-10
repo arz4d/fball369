@@ -1,5 +1,5 @@
 # English Premier League Predictions
-Predicting weekly football results in EPL for the 2017 season. 
+Predicting weekly football results in EPL for the 2018 season. 
 Updated every week.
 
 #### Structure
